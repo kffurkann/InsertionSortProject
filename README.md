@@ -1,4 +1,4 @@
-# InsortingSortProject
+# InsertionSortProject
 Insertion Sort is a sorting algorithm used in Computer Science. The Insertion Sort algorithm repeats the operations of shifting large elements to the right in the array by comparing the element with the previous elements, starting from the second element.
 
 [22,27,16,2,18,6] -> Insertion Sort
